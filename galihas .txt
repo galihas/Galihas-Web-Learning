@@ -3,3 +3,4 @@ Rencana pembelajaran dan pendalaman materi :
 - CSS dan membuat web dengan HTML+CSS
 - Java script dan membuat Web dengan HTML+CSS+JS
 - Bootsrap
+- Belajar Mengenai Laravel
