@@ -1,5 +1,7 @@
 Rencana pembelajaran dan pendalaman materi :
 - Belajar HTML dan membuat HTML Sematik
+  ^ Dimulai dari belajar untuk table
+  ^ Belajar mengenai form HTML
 - CSS dan membuat web dengan HTML+CSS
 - Java script dan membuat Web dengan HTML+CSS+JS
 - Bootsrap
